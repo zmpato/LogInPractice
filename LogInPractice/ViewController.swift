@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var logInButton: UIButton!
     
-//    initial log in entry
+//    initial user log in entry
     
     @IBAction func logIn(_ sender: Any) {
         
