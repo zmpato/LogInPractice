@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var logInButton: UIButton!
     
+//    initial log in entry
     
     @IBAction func logIn(_ sender: Any) {
         
@@ -45,7 +46,7 @@ class ViewController: UIViewController {
         
     }
     
-    
+
     
     
     override func viewDidLoad() {
